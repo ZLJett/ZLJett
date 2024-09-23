@@ -2,7 +2,7 @@
 
 <p align="center">I am a self-taught software developer. I switched to programming after completing an M.A. specializing in Swedish History.</p>
 
-<p align="center">I enjoy taking apart algorithms and heuristics to see how they work and figure out how to apply them to something completely different. Currently I am into plugging whatever code I am working on into Compiler Explorer to see what is really going on under the hood with complier optimizations..</p>
+<p align="center">I enjoy taking apart algorithms and heuristics to see how they work and figure out how to apply them to something completely different. Currently I am into plugging whatever code I am working on into Compiler Explorer to see what is really going on under the hood with complier optimizations.</p>
 
 <p align="center">Now I am seeking to get into a job where I can get feedback from experienced developers, improve my knowledge with real-world projects, and learn creative engineering solutions to real challenges.</p>
 
