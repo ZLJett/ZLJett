@@ -25,11 +25,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring-Icon" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit-Icon" width="40" height="40"/>
 </p>
-
-##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZLJett&theme=neon&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZLJett&layout=compact&langs_count=8&card_width=320&theme=neon" />
-</a>
